@@ -1,4 +1,4 @@
-package org.hpynos.gc;
+package org.hpynos.jconsole;
 
 import java.util.ArrayList;
 import java.util.List;

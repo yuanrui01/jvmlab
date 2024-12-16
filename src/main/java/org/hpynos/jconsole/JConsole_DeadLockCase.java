@@ -1,4 +1,4 @@
-package org.hpynos.gc;
+package org.hpynos.jconsole;
 
 /**
  * @author: yuanrui
